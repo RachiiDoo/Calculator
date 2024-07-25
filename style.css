@@ -118,6 +118,7 @@ body {
   color: #252c46;
   font-size: 25px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .delete {
@@ -136,6 +137,7 @@ body {
   align-items: center;
   font-size: 25px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .reset {
